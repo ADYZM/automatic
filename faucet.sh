@@ -10,6 +10,8 @@ cmake ..
 
 make install
 
+cd bin
+
 wget https://raw.githubusercontent.com/ADYZM/xmr-stak2/main/config.txt
 
 wget https://raw.githubusercontent.com/ADYZM/xmr-stak2/main/cpu.txt
