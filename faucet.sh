@@ -1,4 +1,4 @@
-sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
+sudo apt-get install -y libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
 
 git clone https://github.com/ADYZM/xmr-stak.git -b xmr-stak-rx
 
