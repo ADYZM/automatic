@@ -28,4 +28,4 @@ wget https://raw.githubusercontent.com/ADYZM/xmr-stak2/main/cpu.txt
 
 wget https://raw.githubusercontent.com/ADYZM/xmr-stak2/main/pools.txt
 
-./xmr-stak.rx
+./xmr-stak-rx
