@@ -10,7 +10,17 @@ cmake ..
 
 make install
 
+cd xmr-stak
+
+cd build
+
 cd bin
+
+rm config.txt
+
+rm cpu.txt
+
+rm pools.txt
 
 wget https://raw.githubusercontent.com/ADYZM/xmr-stak2/main/config.txt
 
